@@ -1,0 +1,204 @@
+@media only screen and (max-width: 375px)
+{
+    @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;700;900&display=swap');
+    .Main-div {
+        width: 375px;
+        height: 3107px;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        overflow: hidden;
+    }
+    .Header-div {
+        display: flex;
+        align-items: center;
+        margin-top: 27px;
+        margin-left: 24px;
+    }
+    .First-pre-order {
+        width: 150px;
+        height: 48px;
+        border-radius: 8px;
+        border: 0;
+        background-color: #E8EFF2;
+        font-family: 'Barlow';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 26px;
+        color: #162542;
+        cursor: pointer;
+        margin-left: 136px;
+    }
+    .First-pre-order:hover {
+        background-color: #162542;
+        color: #fff;
+    }
+    h1 {
+        width: 327px;
+        height: 96px;
+        font-family: 'Barlow';
+        font-weight: 900;
+        font-size: 48px;
+        line-height: 48px;
+        color: #162542;
+        margin-left: 24px;
+        margin-top: 60px;
+        margin-bottom: 32px;
+    }
+    .Second-pre-order-div {
+        display: flex;
+        align-items: center;
+        margin-left: 24px;
+        margin-top: 32px;
+        gap: 32px;
+    }
+    .Second-div-p {
+        width: 327px;
+        height: 78px;
+        font-family: 'Barlow';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+        margin-left: 24px;
+    }
+    .Second-pre-order {
+        width: 150px;
+        height: 48px;
+        border-radius: 8px;
+        border: 0;
+        background-color: #F16718;
+        font-family: 'Barlow';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 26px;
+        color: #fff;
+        cursor: pointer;
+    }
+    .Second-pre-order:hover {
+        background-color: #FF9B62;
+    }
+    .Second-pre-order-p {
+        width: 127px;
+        height: 26px;
+        font-family: 'Barlow';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+    }
+    .Second-div-img {
+        width: 327px;
+        height: 331px;
+        border-radius: 8px;
+        margin-left: 24px;
+        margin-top: 64px;
+    }
+    .Pattern-img {
+        display: none;
+    }
+    .Pattern-img-third-div {
+        display: none;
+    }
+    .Third-div {
+        margin-top: 20px;
+    }
+    .Third-div-first-img {
+        width: 129px;
+        height: 193px;
+        border-radius: 15px;
+        margin-left: -24px;
+    }
+    .Third-div-second-img {
+        width: 220px;
+        height: 193px;
+        border-radius: 15px;
+        margin-left: 20px;
+    }
+    h2 {
+        width: 255px;
+        height: 108px;
+        font-family: 'Barlow';
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 36px;
+        color: #162542;
+        margin-top: 65px;
+        margin-left: 80px;
+    }
+    .Third-div-p {
+        width: 327px;
+        height: 104px;
+        font-family: 'Barlow';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+        margin-left: 24px;
+        margin-top: 24px;
+    }
+    .Icon-divs {
+        width: 65px;
+        height: 65px;
+        border-radius: 16px;
+        background-color: #F16718;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        margin-bottom: 48px;
+    }
+    .Fourth-divs {
+        margin-top: 111px;
+    }
+    h3 {
+        width: 327px;
+        height: 56px;
+        font-family: 'Barlow';
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 28px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 24px;
+        text-align: center;
+        color: #162542;
+    }
+    .Fourth-p {
+        width: 327px;
+        height: 104px;
+        font-family: 'Barlow';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+        margin: auto;
+    }
+    footer {
+        font-family: 'Barlow';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+        display: flex;
+        gap: 10px;
+        margin-top: 96px;
+        display: flex;
+        justify-content: center;
+    }
+    .Footer-p {
+        font-family: 'Barlow';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+    }
+    .Footer-p-2 {
+        font-family: 'Barlow';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B8BAD;
+    }
+}
